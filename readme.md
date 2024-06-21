@@ -24,5 +24,5 @@
 按照编号排序：按照职工编号，进行排序，排序规则由用户指定
 清空所有文档：清空文件中记录的所有职工信息 （清空前需要再次确认，防止误删）
 系统界面效果图如下：
-![图片](https://github.com/JenkinnLiu/StuffManager/assets/144363525/26ea1b46-9a89-4f14-870b-5211fb01ea0f)
+![图片](https://github.com/JenkinnLiu/StuffManager/assets/144363525/75652397-80e3-4a94-9509-00fb606d4558)
 需根据用户不同的选择，完成不同的功能！
