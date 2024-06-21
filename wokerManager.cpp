@@ -394,7 +394,7 @@ void WorkerManager::Clean_File() {
 	cout << "确认清空？" << endl;
 	cout << "1、确认" << endl;
 	cout << "2、返回" << endl;
-
+			
 	int select = 0;
 	cin >> select;
 
